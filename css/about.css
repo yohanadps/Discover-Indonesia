@@ -1,0 +1,131 @@
+.team-top h3{
+    	color: #282828;
+  	font-size: 2.35em;
+  	font-weight: 400;
+  	margin: 0;
+  	letter-spacing: 2px;
+  	text-transform: uppercase;
+}.team {
+  	padding: 5em 0px 1.5em 0;
+}
+.team-top{
+	text-align:center;
+}
+.team-main{
+	margin-top:3em;
+}
+.team-right p{
+	color: #474747;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 1.7em;
+	font-family: 'Open Sans', sans-serif;
+}
+.team-text,.team-left img{
+	display:inline-block;
+	vertical-align:middle;
+}
+.team-text span {
+  	text-transform: uppercase;
+  	color: #7E7E7E;
+  	font-size: 12px;
+  	font-weight: 800;
+}
+.team-text h4{
+	text-transform:uppercase;
+	color:#414141;
+	font-size:20px;
+	font-weight:700;
+}
+.team-text ul {
+  	padding: 3px 0 0 0;
+  	margin-top: 8px;
+  	border-top: 3px solid #414141;
+}
+.team-text ul li{
+	list-style:none;
+	display:inline-block;
+}
+.team-text ul li a {
+  	color: #C05151;
+  	font-size: 14px;
+  	display: inline-block;
+  	vertical-align: middle;
+}
+.team-text ul li label {
+  	width: 4px;
+  	height: 4px;
+  	background: #414141;
+  	display: inline-block;
+  	border-radius: 50%;
+  	vertical-align: middle;
+  	margin: 0 5px;
+}
+.team-one{
+	margin-top:3em;
+}
+.team-one:nth-child(1){
+	margin-top:0;
+}
+.team-bottom {
+  	margin-top: 3.5em;
+}
+.team-msg {
+  	margin-top: 4em;
+}
+.team-msg-right a {
+	color: #414141;
+	padding: 12px 1.1em;
+	border: 2px solid #414141;
+	font-size: 16px;
+	font-weight: 700;
+	border-radius: 0.3em;
+	background: #fff;
+}
+.team-msg-left{
+	text-align:right;
+}
+.team-msg-left p {
+  	color: #414141;
+  	font-size: 22px;
+  	font-weight: 600;
+  	text-transform: uppercase;
+}
+.team-left:nth-child(1) {
+  	text-align: center;
+}
+.team-right,.team-left:nth-child(2){
+	margin-top:1.5%;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.col-md-3 {
+    width: 40%;
+}
+.col-md-3 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-md-3 {
+    float: left;
+}
+.one{
+    width: 60%;
+    float: left;
+}
+
+
+.two{
+    width: 40%;
+    float: left;
+    color: #333;
+}

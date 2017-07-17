@@ -1,0 +1,15 @@
+h2{
+    width:auto;
+    padding:5px;
+    padding-left:10px;
+    background-color:#c05151;
+    font-family:Dosis;
+    color:white;
+    border-radius:5px;
+    font-size:20px;
+}
+.panel-50{
+    float:left;
+    width:45%;
+    margin-right:5%;
+}

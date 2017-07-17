@@ -1,0 +1,108 @@
+body{
+  margin:0;
+}
+.side-bar{
+    color:black;
+    
+    font-family: Dosis;
+    z-index:2000;
+    position:FIXED;
+    top:50%;
+   transform: translate(-90%, -50%);
+}
+.side-bar-item{
+    list-style-type: none;
+    height:50px;
+    position:relative;
+    background:#c05151;
+    border-radius: 5px;
+    margin:2px;
+    padding:10px;
+    width:250px;
+}
+.side-bar-item a{
+    text-decoration: none;
+    color:white;
+    font-size:30px;
+}
+.main-bar{
+    min-height:500px;
+    width:80%;
+    margin-left:10%;
+    margin-top:25px;
+    height:auto;
+    position:static;
+    font-family:Open Sans;
+}
+    
+    
+    
+#header{
+    /*
+top: 0; 
+left: 0; 
+right: 0; */
+position: static; 
+height:auto;
+background-color: #c05151; 
+padding-top: 1em;  
+padding-bottom: 1em;
+overflow:auto;
+}
+
+#navbar{
+	float: left; 
+	padding-left: 3em;
+}
+
+#navbar a{
+	text-decoration: none; 
+	font-family: "Dosis"; 
+	font-size: 3.5em; color: white;
+}
+
+#menu-utama{
+	float: right;
+}
+
+#menu-utama ul li{
+	list-style-type: none; 
+	display: inline; 
+	padding-left: 1em;
+}
+
+#menu-utama a{
+	text-decoration: none; 
+	font-family: "Dosis"; 
+	font-size: 1.5em; color: white; 
+}
+
+#menu-utama a:hover{
+
+}
+
+.active{
+
+}
+
+#menu-utama img{
+	width: 2%; 
+	padding-left: 1em;
+}
+
+
+#footer{
+	position:absolute; left:0; right:0; margin-top:1em; background-color: #c05151; padding-left: 3em; padding-right: 3em;
+}
+
+#deskripsi{
+	float: left; font-family: "Open Sans"; font-size: 0.9em; color: white;
+}
+
+#deskripsi a{
+	text-decoration: none; color: white;
+}
+
+#info{
+	float: right; font-family: "Open Sans"; font-size: 0.9em; color: white;
+}

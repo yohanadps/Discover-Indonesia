@@ -1,0 +1,62 @@
+.menu_besar{
+    margin: 0px;
+    padding: 0px;
+    list-style: outside none none;
+    border: 0px none;
+    line-height: inherit;
+    vertical-align: baseline;
+    color: #000;
+}
+
+.logopesawat{
+    text-align:center;
+    cursor: default;
+    top: 1px;
+    list-style-type: none;
+    background: none repeat scroll 0% 0% #999;
+    height: 43px;
+    line-height: 41px;
+    display: block;
+    width: 54px;
+    padding: 0px 13px;
+    margin: 0px;
+    color:#052650;
+}
+
+.logohotel{
+    margin: -43px 0px 0px 81px;
+    text-align:center;
+    cursor: default;
+    top: 1px;
+    list-style-type: none;
+    background: none repeat scroll 0% 0% #999;
+    height: 43px;
+    line-height: 41px;
+    display: block;
+    width: 54px;
+    padding: 0px 13px;
+     color:#052650;
+}
+
+.logosewa_mobil{
+    margin: -43px 0px 0px 162px;
+    text-align:center;
+    cursor: default;
+    top: 1px;
+    list-style-type: none;
+    background: none repeat scroll 0% 0% #999;
+    height: 43px;
+    line-height: 41px;
+    display: block;
+    width: 54px;
+    padding: 0px 13px;
+     color:#052650;
+}
+
+.pesawat{
+    background: none repeat scroll 0% 0% #052650;
+    color: #FFF;
+    height:301px;
+    width: 458px;
+    padding: 40px 40px 40px 40px;
+}
